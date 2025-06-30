@@ -13,6 +13,7 @@ This repository contains my homework assignments from my C++ programming course.
 - [HW #3: RAII and smart pointers](./homework-03/) - Writing a mini-program using RAII and smart pointers
 - [HW #4: Multithreading (basics)](./homework-04/) - Implementation of mathematical function calculations and models for an order processing system using multithreading
 - [HW #5: Synchronization and thread safety](./homework-05/) - Implementation of a banking system model with synchronization of transaction processing results
+- [HW #6: Git and GitHub setup](./homework-06/) - Basic skills in using Git and GitHub
 
 ## How to launch
 
