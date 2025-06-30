@@ -18,7 +18,7 @@ This repository contains my homework assignments from my C++ programming course.
 
 Each task has its own folder with separate compilation and launch instructions.
 
-optional - does not affect anything
+Optional - does not affect anything \
 General compilation command:
 
 ```bash
