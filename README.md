@@ -23,7 +23,7 @@
 Загальна команда компіляції:
 
 ```bash
-cd homework-XX
-g++ -o program main.cpp
-./program
+~$ cd homework-XX
+~$ g++ -o program main.cpp
+~$ ./program
 ```

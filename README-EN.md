@@ -23,7 +23,7 @@ Optional - does not affect anything \
 General compilation command:
 
 ```bash
-cd homework-XX
-make
-./program
+~$ cd homework-XX
+~$ make
+~$ ./program
 ```
