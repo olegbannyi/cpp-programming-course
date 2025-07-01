@@ -51,7 +51,7 @@ Add a .gitignore to the repository:
 
 ```bash
 git add .gitignore
-git commit -m "Додав .gitignore для C++ проекту"
+git commit -m "Added .gitignore into C++ project"
 ```
 
 #### Part 4: Transferring Homeworks
