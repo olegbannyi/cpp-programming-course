@@ -1,4 +1,4 @@
-# C++ programming course [👈](../README.md)
+# C++ programming course [👈](../README-EN.md)
 
 ## HW #2: Movement semantics and lambda expressions [🇺🇦👈](./README.md)
 

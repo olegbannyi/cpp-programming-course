@@ -1,4 +1,4 @@
-# C++ programming course [👈](../README.md)
+# C++ programming course [👈](../README-EN.md)
 
 ## HW #6: Git and GitHub setup [🇺🇦👈](./README.md)
 

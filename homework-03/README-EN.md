@@ -1,4 +1,4 @@
-# C++ programming course [👈](../README.md)
+# C++ programming course [👈](../README-EN.md)
 
 ## HW #3: RAII and smart pointers [🇺🇦👈](./README.md)
 

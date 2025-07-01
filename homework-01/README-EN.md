@@ -1,4 +1,4 @@
-# C++ programming course [👈](../README.md)
+# C++ programming course [👈](../README-EN.md)
 
 ## HW #1: Auto and range-based loops [🇺🇦👈](./README.md)
 
